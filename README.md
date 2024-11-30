@@ -12,7 +12,7 @@ There is an in depth guide in MetaCrafter's repo about the project in the `GUIDE
   
   ![image](https://github.com/user-attachments/assets/9d370ff3-a6a6-4a24-b979-559b2a3afcff)
 
-  - Click `Add Avalanche L1 to Wallet` to automatically add the Fuji network
+  - Click `Add Avalanche L1 to Wallet` to automatically add the Fuji network to the MetaMask wallet extension
   - A free coupon can be acquired [here](https://guild.xyz/avalanche/developers) by joining their discord server to get a member role, and verifying an email.
 > [!NOTE]
 > These tokens have no real value.
